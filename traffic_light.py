@@ -1,5 +1,6 @@
 import RPI.GPIO as GPIO #import RPIO.GPIO module
 import time #import time module
+import os #import os module
 
 GREEN = 10 #set gpio 10 for green led
 YELLOW = 9 #set gpio 9 for yellow led
